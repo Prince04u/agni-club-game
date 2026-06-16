@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://agniclubs.org/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://agniclubs.org/about.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/features.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/gaming-experience.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/bonuses.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/trust-security.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/responsible-gaming.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/faq.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/privacy.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://agniclubs.org/terms.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/about</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/features</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/gaming-experience</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/bonuses</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/trust-security</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/responsible-gaming</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/faq</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/privacy</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclubs.org/terms</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
